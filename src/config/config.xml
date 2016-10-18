@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <dbconfig>
+        <dbtype>mysql</dbtype>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://localhost/restaurante</url>
+        <dbuser>root</dbuser>
+        <dbpass>12qwaszx</dbpass>
+    </dbconfig>
+</config>
+    
